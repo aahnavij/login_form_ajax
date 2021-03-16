@@ -4,7 +4,7 @@
 	<title></title>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
 </head>
-<body>
+<body> 
 <form id="myform" action="insert.php" method="post">
   <label for="fname">First name:</label><br>
   <input type="text" id="fname" name="fname" value=""><br>
